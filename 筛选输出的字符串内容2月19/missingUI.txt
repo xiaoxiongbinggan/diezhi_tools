@@ -1,0 +1,138 @@
+cocos2d: fullPathForFilename: No file found at lua/logic/AStar/Path.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at bit.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at .\bit.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at bit32.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at .\bit32.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at bit/numberlua.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at .\bit/numberlua.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at bit32.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at .\bit32.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at bit.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at .\bit.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at jit.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at .\jit.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at /cc_2x2_white_image. Possible missing file.
+cocos2d: fullPathForFilename: No file found at lua/activity/game_info.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at lua/userdata/shopguessdata.lua. Possible missing file
+cocos2d: fullPathForFilename: No file found at lua/activity/game_info.lua. Possible missing file.
+cocos2d: fullPathForFilename: No file found at /cc_2x2_white_image. Possible missing file.
+cocos2d: fullPathForFilename: No file found at playericon/99914b932bd37a50b983c5e7c90ae93bi6.png. Po
+cocos2d: fullPathForFilename: No file found at CopyImageTemp.png. Possible missing file.
+cocos2d: fullPathForFilename: No file found at /cc_fps_images. Possible missing file.
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at lua/staticdata/renshengbaiwei_lottery_config_data1.lu
+cocos2d: fullPathForFilename: No file found at lua/staticdata/renshengbaiwei_lottery_config_data1.lu
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at lua/staticdata/activity_first_pay_data4.lua. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn_h.png. Possible
+cocos2d: fullPathForFilename: No file found at ui/activity/_activitiesicons/13/1/btn.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/mainmenu/btn_buyone_normal_h.png. Possible missing
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go.png. Possible mis
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m
+cocos2d: fullPathForFilename: No file found at ui/activity/btn_SpringFesChoose1_go_h.png. Possible m

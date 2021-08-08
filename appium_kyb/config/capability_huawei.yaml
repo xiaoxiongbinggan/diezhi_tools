@@ -1,0 +1,12 @@
+platformName: Android
+#appname: kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+noReset: False
+platformVersion: 9
+deviceName: HUAWEI Mate 20 Pro (UD)
+udid: 3EP7N18929000892
+automationalName: uiautomator2
+unicodeKeyboard: True
+resetKeyboard: True
+port: 4723
